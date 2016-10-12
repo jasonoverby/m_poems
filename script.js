@@ -2,7 +2,7 @@ let arr = ['we\'ll kiss grow old walk around light months will fly over us like 
 
 'we talked in the rain we didn\'t mind the raindrops dripping in our eyes',
 
-'a sailboat on the upper bay of the hudson skyscrapers behind ',
+'a sailboat on the upper bay of the hudson skyscrapers behind',
 
 'the people watched as the rain fell a light mist over their fair city',
 
